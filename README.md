@@ -24,6 +24,8 @@ from public APIs and displays them instantly — no page reload needed.
 
 ## things I want to add
 -Error handling with `try`/`catch`
+
 -Loading indicator while immages fetch
+
 -Toggle animation between cat/dog views
 
