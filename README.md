@@ -22,7 +22,8 @@ from public APIs and displays them instantly — no page reload needed.
 - Event listeners
 - Working with different JSON response shapes across two APIs
 
-  ## things I want to add
-- Error handling with `try`/`catch`
-- Loading indicator while images fetch
-- Toggle animation between cat/dog views
+## things I want to add
+-Error handling with `try`/`catch`
+-Loading indicator while immages fetch
+-Toggle animation between cat/dog views
+
